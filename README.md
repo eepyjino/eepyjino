@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌐 Learning and building my first web development projects<br><br>🫱🏻‍🫲🏻 I’m looking to collaborate on<br>💻 Beginner-friendly web projects with fellow learners<br><br>🤝 I’m looking for help with<br>🚀 Improving my HTML, CSS, JavaScript, and web development skills<br><br>🌱 I’m currently learning<br>🌐 Web Development<br>💻 HTML • CSS • JavaScript<br><br>💬 Ask me about<br>🎮 Games, tech, or my journey as a BSIT student<br><br>⚡ Fun fact<br>🎓 I’m a BSIT student who enjoys learning by building things
+💬 Ask me about<br>🎮 Games, tech, or my journey as a BSIT student<br><br>⚡ Fun fact<br>🎓 I’m a BSIT student who enjoys learning by building things
 
 
 ## 🌐 Socials:
