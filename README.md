@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌐 Web development<br><br>💬 Ask me about<br>🎓 BSIT & Minecraft
+regular guy
 
 
 
